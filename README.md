@@ -4,7 +4,7 @@ Hello World! 🌍  🌎  🌏
 
 ————————————
 
-EN - This is a simple tab switcher, where you can switch between texts clicking on the animals images.
+<strong style="color: #ff0">EN</strong> - This is a simple tab switcher, where you can switch between texts clicking on the animals images.
 
 PT - Este é um exemplo simples de um tab switcher, onde você poderá alterar os textos clicando nas imagens dos animais.
 
